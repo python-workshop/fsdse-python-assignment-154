@@ -1,5 +1,6 @@
-# Implement insertion build.
-### Constraints
+# Implement insertion sort.
+
+## Constraints
 * Is a naive solution sufficient?
     * Yes
 * Are duplicates allowed?
